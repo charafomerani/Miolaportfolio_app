@@ -6,7 +6,8 @@ Ce projet fullstack est sous forme d'un portfolio qui concerne toutes les compé
 
 # Technologies utilisées :
 
-****Frontend****
+****Frontend :****
 React js 
-****Backend****
+****Backend :****
 Spring boot
+****la methodologie Scrum****
